@@ -42,6 +42,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_extensions',
     'import_export',
+
+    'rest_framework',
+    'rest_framework_swagger',
+
     'utility',
     'blogs',
     'readers',
